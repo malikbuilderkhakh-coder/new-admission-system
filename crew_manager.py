@@ -1,3 +1,7 @@
+import crewai.llms.cache as crewai_cache
+
+crewai_cache.mark_cache_breakpoint = lambda msg: msg
+
 from crewai import Agent, Crew, LLM, Process, Task
 from config import MODEL_NAME
 from data_loader import load_admission_data
