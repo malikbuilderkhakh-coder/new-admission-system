@@ -1,0 +1,16 @@
+{
+  "notice": "Starter dataset only. It contains no current verified university cutoffs, fees, deadlines, or official admission rules.",
+  "programs": [],
+  "record_template": {
+    "university": "Official university name",
+    "program": "Exact degree title",
+    "campus": "Campus name",
+    "qualification_accepted": [],
+    "minimum_marks": null,
+    "subject_requirements": [],
+    "entry_test": null,
+    "application_deadline": null,
+    "official_source_url": null,
+    "last_checked": null
+  }
+}
